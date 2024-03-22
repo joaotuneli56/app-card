@@ -17,10 +17,10 @@ class HomePage extends StatelessWidget {
                 backgroundImage: AssetImage('Images/perfil.png'),
               ),
               accountName: Text(
-                'Joanzinho',
+                'João Pedro Moura TUneli',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
-              accountEmail: Text('emailsojoaozinho@gmail.com'),
+              accountEmail: Text('joaopedromouratuneli@gmail.com'),
               decoration:
                   BoxDecoration(color: const Color.fromARGB(255, 1, 115, 209)),
             ),
@@ -85,7 +85,7 @@ class HomePage extends StatelessWidget {
             ),
           ),
           Text(
-            'jsviera',
+            'joaotuneli56',
             style: TextStyle(
               color: const Color.fromARGB(255, 62, 63, 63),
               fontWeight: FontWeight.bold,
@@ -114,7 +114,7 @@ class HomePage extends StatelessWidget {
               ),
               SizedBox(width: 5),
               Text(
-                'jsilvavieira@github.com',
+                'joqotuneli56@github.com',
                 style: TextStyle(color: Colors.white),
               ),
             ],
